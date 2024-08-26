@@ -38,7 +38,23 @@ The datasets used in this study are essential for validating our proposed method
 
 ## Getting Started
 
+
+
+
 ### Prerequisites
 
 - Python 3.x
 - Required Python libraries can be installed PIP
+
+### BibTeX
+```bibtex
+@article{yumlembam2024comprehensive,
+  title={Comprehensive botnet detection by mitigating adversarial attacks, navigating the subtleties of perturbation distances and fortifying predictions with conformal layers},
+  author={Yumlembam, Rahul and Issac, Biju and Jacob, Seibu Mary and Yang, Longzhi},
+  journal={Information Fusion},
+  pages={102529},
+  year={2024},
+  publisher={Elsevier}
+}
+
+```
